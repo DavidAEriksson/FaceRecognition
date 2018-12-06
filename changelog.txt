@@ -1,0 +1,8 @@
+*******************
+*******************
+**** CHANGELOG ****
+*******************
+*******************
+
+2018-11-02
+ - Added new information about perceptrons in section 2.2
